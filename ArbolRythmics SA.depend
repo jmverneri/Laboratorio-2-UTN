@@ -1,0 +1,351 @@
+# depslib dependency file v1.0
+1603973453 source:c:\users\jamar\desktop\javi\utn\programación ii\tps\arbolrythmics sa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"producto.h"
+	"clientes.h"
+
+1603970716 source:c:\users\jamar\desktop\javi\utn\programación ii\tps\arbolrythmics sa\producto.c
+	"producto.h"
+
+1603970716 c:\users\jamar\desktop\javi\utn\programación ii\tps\arbolrythmics sa\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1603929672 c:\users\jamar\desktop\javi\utn\programación ii\tps\arbolrythmics sa\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1603929672 source:c:\users\jamar\desktop\javi\utn\programación ii\tps\arbolrythmics sa\clientes.c
+	"clientes.h"
+
+1603971105 source:c:\users\jamar\desktop\javi\utn\programación ii\tps\arbolrythmics sa\listaproductos.c
+	"listaProductos.h"
+
+1603971105 c:\users\jamar\desktop\javi\utn\programación ii\tps\arbolrythmics sa\listaproductos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"producto.h"
+
+1603974746 source:c:\users\jamar\desktop\javi\utn\programación ii\tps\arbolrythmics sa\arbolproductos.c
+	"arbolProductos.h"
+
+1603974746 c:\users\jamar\desktop\javi\utn\programación ii\tps\arbolrythmics sa\arbolproductos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"producto.h"
+
+1605819657 source:c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\arbolproductos.c
+	"arbolProductos.h"
+
+1605727874 c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\arbolproductos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"producto.h"
+
+1605726611 c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1604862703 source:c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\clientes.c
+	"clientes.h"
+
+1604868945 c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1605820414 source:c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\listaproductos.c
+	"listaProductos.h"
+
+1605820421 c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\listaproductos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"producto.h"
+
+1605726611 source:c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\producto.c
+	"producto.h"
+
+1605820842 source:c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"producto.h"
+	"cliente.h"
+	"pedido.h"
+	"listaProductos.h"
+	"arbolProductos.h"
+	"arregloClientes.h"
+	"listaPedidos.h"
+	"ABMcliente.h"
+	"ABMproducto.h"
+
+1605726611 c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\arregloclientes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+	"listaProductos.h"
+
+1605726611 source:c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\pedido.c
+	"pedido.h"
+
+1605726611 c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\pedido.h
+
+1605726611 source:c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\listapedidos.c
+	"listaPedidos.h"
+
+1605726611 c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"pedido.h"
+
+1605810691 source:c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\arregloclientes.c
+	"arregloClientes.h"
+
+1605726611 c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1605726611 source:c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\cliente.c
+	"cliente.h"
+
+1605818480 source:c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\abmproducto.c
+	"listaProductos.h"
+	"arbolProductos.h"
+	"producto.h"
+	"ABMproducto.h"
+	"arbolProductos.h"
+
+1605726611 c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\abmproducto.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1605728390 c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\abmcliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+
+1605728390 source:c:\users\ana.p.gonzalez.chaio\desktop\arbolrythmics sa\abmcliente.c
+	"ABMcliente.h"
+
+1605890620 source:c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\arbolproductos.c
+	"arbolProductos.h"
+
+1605890620 c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\arbolproductos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"producto.h"
+
+1605890620 c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1605890620 source:c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\listaproductos.c
+	"listaProductos.h"
+
+1605891271 c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\listaproductos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"producto.h"
+
+1605927703 source:c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"producto.h"
+	"cliente.h"
+	"pedido.h"
+	"listaProductos.h"
+	"arbolProductos.h"
+	"arregloClientes.h"
+	"listaPedidos.h"
+
+1605890620 c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1605890620 c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\pedido.h
+
+1605915776 c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\arregloclientes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+	"listaProductos.h"
+
+1605890620 c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"pedido.h"
+
+1605896983 c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\abmcliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+	"arregloClientes.h"
+
+1605890620 c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\abmproducto.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1605890620 source:c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\producto.c
+	"producto.h"
+
+1605896908 source:c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\abmcliente.c
+	"ABMcliente.h"
+
+1605890620 source:c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\abmproducto.c
+	"listaProductos.h"
+	"arbolProductos.h"
+	"producto.h"
+	"ABMproducto.h"
+	"arbolProductos.h"
+
+1605927146 source:c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\arregloclientes.c
+	"arregloClientes.h"
+
+1605927062 source:c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\cliente.c
+	"cliente.h"
+
+1605890620 source:c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\listapedidos.c
+	"listaPedidos.h"
+
+1605890620 source:c:\users\ana.p.gonzalez.chaio\desktop\trabajando aqui\arbolrythmics sa\pedido.c
+	"pedido.h"
+
+1606170463 source:c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	"producto.h"
+	"cliente.h"
+	"pedido.h"
+	"listaProductos.h"
+	"arbolProductos.h"
+	"arregloClientes.h"
+
+1606146092 c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1606100076 c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1606072253 c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\pedido.h
+
+1606157818 c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\listaproductos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"producto.h"
+
+1606076519 c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\arbolproductos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"producto.h"
+
+1606156549 c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\arregloclientes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+	"listaProductos.h"
+
+1606072253 c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"pedido.h"
+
+1606147875 source:c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\producto.c
+	"producto.h"
+
+1606072253 source:c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\abmcliente.c
+	"ABMcliente.h"
+
+1606072253 c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\abmcliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+	"arregloClientes.h"
+
+1606078845 source:c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\arbolproductos.c
+	"arbolProductos.h"
+
+1606170254 source:c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\cliente.c
+	"cliente.h"
+
+1606072253 source:c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\listapedidos.c
+	"listaPedidos.h"
+
+1606157739 source:c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\listaproductos.c
+	"listaProductos.h"
+
+1606072253 source:c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\pedido.c
+	"pedido.h"
+
+1606156224 source:c:\users\ana.p.gonzalez.chaio\desktop\22-11\arbolrythmics sa\arregloclientes.c
+	"arregloClientes.h"
+
